@@ -8,8 +8,9 @@
 .additional-info {
   text-decoration: none;
   padding: 20px 20px;
-  display: inline-block;
+  display: block;
   margin-bottom: 1%;
+  overflow: hidden;
 }
 .masters {
   text-decoration: none;
